@@ -34,6 +34,4 @@ We reserve the right to update or modify these Terms of Service at any time. Any
 ## 8. Contact Us
 If you have any questions or concerns regarding these Terms, you can contact us at:
 * Email: [ibrahimsemapala2@gmail.com]
-## 8. Contact Us
-If you have any questions or concerns regarding these Terms, you can contact us at:
-* Email: [Your Support/Developer Email Address]
+
